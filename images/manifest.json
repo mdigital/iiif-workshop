@@ -1,0 +1,66 @@
+{
+  "id" : "https://mdigital.github.io/iiif-workshop/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in mdigital/iiif-workshop project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 6316,
+    "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I522948_TePapa_Strigops-habroptilus_full/canvas/",
+    "label" : {
+      "none" : [ "MA_I522948_TePapa_Strigops-habroptilus_full" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I522948_TePapa_Strigops-habroptilus_full/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I522948_TePapa_Strigops-habroptilus_full/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 198,
+              "height" : 198
+            }, {
+              "width" : 395,
+              "height" : 395
+            }, {
+              "width" : 790,
+              "height" : 790
+            }, {
+              "width" : 1579,
+              "height" : 1579
+            }, {
+              "width" : 3158,
+              "height" : 3158
+            }, {
+              "width" : 6316,
+              "height" : 6316
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6316,
+            "@id" : "https://mdigital.github.io/iiif-workshop/images/MA_I522948_TePapa_Strigops-habroptilus_full",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6316
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6316,
+          "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I522948_TePapa_Strigops-habroptilus_full/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6316
+        },
+        "target" : "https://mdigital.github.io/iiif-workshop/images/MA_I522948_TePapa_Strigops-habroptilus_full/canvas/"
+      } ]
+    } ],
+    "height" : 6316
+  } ]
+}
