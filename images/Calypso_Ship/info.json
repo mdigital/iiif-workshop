@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 89,
+    "height" : 32
+  }, {
+    "width" : 178,
+    "height" : 63
+  }, {
+    "width" : 356,
+    "height" : 125
+  }, {
+    "width" : 712,
+    "height" : 250
+  }, {
+    "width" : 1424,
+    "height" : 500
+  }, {
+    "width" : 2848,
+    "height" : 1000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2848,
+  "@id" : "https://mdigital.github.io/iiif-workshop/images/Calypso_Ship",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1000
+}
