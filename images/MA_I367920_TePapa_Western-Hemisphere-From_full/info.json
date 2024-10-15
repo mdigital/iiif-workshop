@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 16,
+    "height" : 20
+  }, {
+    "width" : 31,
+    "height" : 40
+  }, {
+    "width" : 62,
+    "height" : 80
+  }, {
+    "width" : 124,
+    "height" : 160
+  }, {
+    "width" : 248,
+    "height" : 320
+  }, {
+    "width" : 495,
+    "height" : 640
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 495,
+  "@id" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 640
+}
