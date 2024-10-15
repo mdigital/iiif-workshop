@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 495,
+    "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full/canvas/",
+    "label" : {
+      "none" : [ "MA_I367920_TePapa_Western-Hemisphere-From_full" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 16,
+              "height" : 20
+            }, {
+              "width" : 31,
+              "height" : 40
+            }, {
+              "width" : 62,
+              "height" : 80
+            }, {
+              "width" : 124,
+              "height" : 160
+            }, {
+              "width" : 248,
+              "height" : 320
+            }, {
+              "width" : 495,
+              "height" : 640
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 495,
+            "@id" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 640
+          } ],
+          "format" : "image/jpeg",
+          "width" : 495,
+          "id" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 640
+        },
+        "target" : "https://mdigital.github.io/iiif-workshop/images/MA_I367920_TePapa_Western-Hemisphere-From_full/canvas/"
+      } ]
+    } ],
+    "height" : 640
+  }, {
     "width" : 2848,
     "id" : "https://mdigital.github.io/iiif-workshop/images/Calypso_Ship/canvas/",
     "label" : {
